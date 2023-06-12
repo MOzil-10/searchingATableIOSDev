@@ -13,6 +13,7 @@
 		4D4BCB602A1CA0A400BAC303 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D4BCB5E2A1CA0A400BAC303 /* Main.storyboard */; };
 		4D4BCB622A1CA0A600BAC303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D4BCB612A1CA0A600BAC303 /* Assets.xcassets */; };
 		4D4BCB652A1CA0A600BAC303 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D4BCB632A1CA0A600BAC303 /* LaunchScreen.storyboard */; };
+		4D4BCB6D2A1CA64B00BAC303 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4BCB6C2A1CA64B00BAC303 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4D4BCB612A1CA0A600BAC303 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D4BCB642A1CA0A600BAC303 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D4BCB662A1CA0A600BAC303 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D4BCB6C2A1CA64B00BAC303 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				4D4BCB5A2A1CA0A400BAC303 /* SceneDelegate.swift */,
 				4D4BCB5C2A1CA0A400BAC303 /* ViewController.swift */,
 				4D4BCB5E2A1CA0A400BAC303 /* Main.storyboard */,
+				4D4BCB6C2A1CA64B00BAC303 /* TableViewCell.swift */,
 				4D4BCB612A1CA0A600BAC303 /* Assets.xcassets */,
 				4D4BCB632A1CA0A600BAC303 /* LaunchScreen.storyboard */,
 				4D4BCB662A1CA0A600BAC303 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D4BCB5D2A1CA0A400BAC303 /* ViewController.swift in Sources */,
+				4D4BCB6D2A1CA64B00BAC303 /* TableViewCell.swift in Sources */,
 				4D4BCB592A1CA0A400BAC303 /* AppDelegate.swift in Sources */,
 				4D4BCB5B2A1CA0A400BAC303 /* SceneDelegate.swift in Sources */,
 			);
